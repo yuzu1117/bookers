@@ -23,3 +23,22 @@ head{
   display: none;
 }
 
+td{
+  padding-bottom:7px;
+  padding-left: 5px;
+  padding-bottom:5px;
+}
+
+h2{
+  margin:10px auto;
+}
+
+h3{
+  font-size: 12px;
+}
+
+h4{
+  font-size: 12px
+
+}
+
